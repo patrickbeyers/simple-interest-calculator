@@ -1,2 +1,10 @@
-# simple-interest-calculator
-A simple script to calculate simple interest. Part of the micro-finance startup’s transition from SVN to Git.
+# Simple Interest Calculator
+
+This project calculates simple interest given the principal, annual interest rate, and time period.
+
+## Usage
+
+Run the script and provide the required inputs:
+
+```bash
+python simple_interest.py
