@@ -8,3 +8,5 @@ Run the script and provide the required inputs:
 
 ```bash
 python simple_interest.py
+
+2022 XYZ, Inc.
